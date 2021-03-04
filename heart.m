@@ -1,5 +1,5 @@
-input('input a: ')
-input('input b: ')
+input('Name of Crush:')
+input('Birth Year of Crush: ')
 
 disp('*****************************')
 disp('***     0 0 0   0 0 0     ***')
